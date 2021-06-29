@@ -4,6 +4,8 @@ A blue-style theme inspired by [Lark Docs](https://docs.feishu.cn/docs), suitabl
 
 一款蓝色风格的、轻巧灵动的主题，灵感来自[飞书云文档](https://docs.feishu.cn/docs)，适合日常写作。
 
+更多 typora 主题见 [imageslr/mweb-themes](https://github.com/imageslr/mweb-themes)。
+
 ### 下载
 * [typora-lark.css](typora-lark.css)：粗体默认黑色
 * [typora-lark-bold-color.css](typora-lark-bold-color.css)：粗体使用蓝色
